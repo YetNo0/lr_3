@@ -15,3 +15,21 @@
 /Users/macbook/Develop/tehno/lr_3/music/obj/Debug/net8.0/music.pdb
 /Users/macbook/Develop/tehno/lr_3/music/obj/Debug/net8.0/music.genruntimeconfig.cache
 /Users/macbook/Develop/tehno/lr_3/music/obj/Debug/net8.0/ref/music.dll
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/music
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/music.deps.json
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/music.runtimeconfig.json
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/music.dll
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/music.pdb
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.csproj.AssemblyReference.cache
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.AssemblyInfoInputs.cache
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.AssemblyInfo.cs
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.csproj.CoreCompileInputs.cache
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.sourcelink.json
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.csproj.CopyComplete
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.dll
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/refint/music.dll
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.pdb
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/music.genruntimeconfig.cache
+/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/Debug/net8.0/ref/music.dll

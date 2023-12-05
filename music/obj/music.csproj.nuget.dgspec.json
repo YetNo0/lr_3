@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Develop/tehno/lr_3/music/music.csproj": {}
+    "/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/music.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Develop/tehno/lr_3/music/music.csproj": {
+    "/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/music.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Develop/tehno/lr_3/music/music.csproj",
+        "projectUniqueName": "/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/music.csproj",
         "projectName": "music",
-        "projectPath": "/Users/macbook/Develop/tehno/lr_3/music/music.csproj",
-        "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Develop/tehno/lr_3/music/obj/",
+        "projectPath": "/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/music.csproj",
+        "packagesPath": "/Users/yebaka/.nuget/packages/",
+        "outputPath": "/Users/yebaka/practiki i labu/labu/laba3/lr_3/music/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/macbook/.nuget/NuGet/NuGet.Config"
+          "/Users/yebaka/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
