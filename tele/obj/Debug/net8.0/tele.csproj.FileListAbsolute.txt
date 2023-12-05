@@ -1,0 +1,17 @@
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/tele
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/tele.deps.json
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/tele.runtimeconfig.json
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/tele.dll
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/tele.pdb
+/Users/macbook/Develop/tehno/lr_3/tele/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.csproj.AssemblyReference.cache
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.AssemblyInfoInputs.cache
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.AssemblyInfo.cs
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.csproj.CoreCompileInputs.cache
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.csproj.CopyComplete
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.dll
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/refint/tele.dll
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.pdb
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/tele.genruntimeconfig.cache
+/Users/macbook/Develop/tehno/lr_3/tele/obj/Debug/net8.0/ref/tele.dll

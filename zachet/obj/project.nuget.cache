@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkwWasgKGHj4pgbLis693Yc7wmGWliJBLeNI9EzMhVimyJMea8j/OVhIZ6FPV+Y9otCFe9eyU5ehNpwLuNFLuA==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Develop/tehno/lr_3/zachet/zachet.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

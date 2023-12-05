@@ -1,0 +1,17 @@
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/zachet
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/zachet.deps.json
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/zachet.runtimeconfig.json
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/zachet.dll
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/zachet.pdb
+/Users/macbook/Develop/tehno/lr_3/zachet/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.csproj.AssemblyReference.cache
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.AssemblyInfoInputs.cache
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.AssemblyInfo.cs
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.csproj.CoreCompileInputs.cache
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.csproj.CopyComplete
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.dll
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/refint/zachet.dll
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.pdb
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/zachet.genruntimeconfig.cache
+/Users/macbook/Develop/tehno/lr_3/zachet/obj/Debug/net8.0/ref/zachet.dll

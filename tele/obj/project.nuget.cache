@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJ3NJi9krmF7Hq8GPCZKxcfhylnPmDNmtvb/lWsCK6Sb8mIQndcyiM7IOpeaTxGuO9WWvmb4hEYJbNjI9IHxQA==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Develop/tehno/lr_3/tele/tele.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

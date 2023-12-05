@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "s",
+    "Price": 45.0,
+    "Unit": "m",
+    "Quantity": 3
+  },
+  {
+    "Name": "d",
+    "Price": 23.0,
+    "Unit": "l",
+    "Quantity": 2
+  }
+]
